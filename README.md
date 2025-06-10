@@ -1,6 +1,6 @@
 # Chat App Backend
 
-A real-time backend for chatrooms with dynamic room creation, user join/leave handling, message broadcasting, and chat history retrieval. Built for robust session integrity and reliability.
+A real-time chat app with dynamic room creation, user join/leave handling, message broadcasting, and chat history retrieval. Built for robust session integrity and reliability.
 
 ## Features
 
