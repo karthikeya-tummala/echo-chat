@@ -22,6 +22,6 @@ A real-time chat app with dynamic room creation, user join/leave handling, messa
 
 ```bash
 git clone https://github.com/karthikeya-tummala/echo-chat.git
-cd chat-app-backend
+cd echo-chat
 npm install
 npm start
